@@ -1,6 +1,6 @@
 package main
 
-import "learn-go/helper"
+import "go-jaman-now/helper"
 
 func main() {
 	helper.SayHello("Wew")
